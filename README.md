@@ -1,5 +1,5 @@
 # LSE_DA101_Assignment
-## Explorratory Analysis for a fictional global supermarket
+## Exploratory Analysis for a fictional global supermarket
 
 -------------------------
 
