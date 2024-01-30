@@ -21,3 +21,5 @@ In particular, 2Market wants to understand:
 - Which products seem to sell the best and if that varies based on demographic
 
 -------------------------
+
+**Tableau & Excel files were uploaded via Canvas**
